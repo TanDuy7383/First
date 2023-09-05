@@ -1,5 +1,18 @@
-touch . gitignore			
+touch . gitignore (tao gitignore)			
 git branch -a
 git checkout -b <ten branch>
 git checkout <ten branch>	(-b them branch____-d xoa nhanh)
 git checkout -d <ten>
+git merge <ten nhanh> (chuyen tu V1 ve master)
+git remote add origin <url>
+git remote -v
+git remote set -url origin <url>
+git push origin (master)<ten branch>
+
+
+
+
+
+Solve Merge branch 'V2.0'
+esc (:wq) 
+i
