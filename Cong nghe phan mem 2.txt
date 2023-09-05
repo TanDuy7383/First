@@ -1,0 +1,5 @@
+touch . gitignore			
+git branch -a
+git checkout -b <ten branch>
+git checkout <ten branch>	(-b them branch____-d xoa nhanh)
+git checkout -d <ten>

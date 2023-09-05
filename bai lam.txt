@@ -1,0 +1,20 @@
+git init
+	Tác dụng : Khởi tạo 1 git repository 1 project mới hoặc đã có.
+git status
+	Tác dụng: Để check trạng thái của những file đã thay đổi trong thư mục làm việc.
+git add
+	Tác dụng: Thêm thay đổi đến stage/index trong thư mục làm việc.
+git commit
+	Tác dụng: giúp Git lưu lại snapshot đối với các thay đổi trong thư mục trong quá trình làm việc với Git.
+git reset
+	Tác dụng: đưa một tập tin nào đó vào Staging Area nhưng bây giờ muốn loại bỏ nó ra khỏi đây để không phải bị commit theo.
+git log 
+	Tác dụng: giúp bạn xem lại thông tin lịch sự commit, nhằm giám sát sự thay đổi của dự án.
+git reflog 
+	Tác dụng: cho phép bạn xem lại lịch sử các commit và thao tác trên các nhánh và HEAD trên local repository của bạn, bất kể có bị xoá hay không, giúp bạn tìm lại các commit hoặc nhánh bị mất hoặc bị thay đổi.
+git cherry-pick
+	Tác dụng: Là một cách để checkout 1 commit bất kỳ tại 1 branch được chỉ định về branch hiện tại.
+git rm--cache
+	Tác dụng: hành động này chuyển trạng thái file đã được đánh dấu (staged) sang trạng thái ko theo dõi (untracked)
+git add .
+	Tác dụng: thêm tất cả các 

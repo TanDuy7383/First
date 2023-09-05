@@ -1,0 +1,11 @@
+git init
+git status
+git add <ten file>
+git rm --cache
+git add . (cho tat ca vao trong area)
+git commit -m "message"
+git commit -am "message"
+git log
+git reset --hard (id commit)
+git reflog
+git cherry-pick (id)	
